@@ -7,7 +7,10 @@ TODO:
       PCA
       LASSO
       (kPCA?)
+      Autoencoders
   4. Individual Models
-      Random Forest
       LDA/QDA
+      Random Forest
       KNN
+      SVM
+      KMeans
