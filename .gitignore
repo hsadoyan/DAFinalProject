@@ -102,3 +102,5 @@ ENV/
 
 
 songs.csv
+*.html
+RandomForestAccuraciesGraph_files
