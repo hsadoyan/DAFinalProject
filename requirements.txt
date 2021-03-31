@@ -36,7 +36,7 @@ jupyter-client==5.2.3
 jupyter-console==5.2.0
 jupyter-core==4.4.0
 louis==3.4.0
-lxml==4.1.1
+lxml==4.6.3
 MarkupSafe==1.0
 matplotlib==2.1.1
 mccabe==0.6.1
